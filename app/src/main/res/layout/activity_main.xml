@@ -31,4 +31,20 @@
         android:layout_marginVertical="40dp"
         android:contentDescription="@string/img_flower"/>
 
+    <Button
+        android:id="@+id/waterBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_water"/>
+
+    <Button
+        android:id="@+id/resetBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/btn_reset"
+        android:layout_marginTop="20dp"
+        style="@style/Widget.Material3.Button.OutlinedButton"/>
+
+
+
 </LinearLayout>
