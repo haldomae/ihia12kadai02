@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">ihiakadai02</string>
+    <string name="test">Android!!!</string>
+    <string name="message">水をあげましょう</string>
+    <string name="message0">どんどん水を注ぎましょう！</string>
+    <string name="message1">まだまだです！</string>
+    <string name="message2">何が咲くでしょう？</string>
+    <string name="message3">成長してきました</string>
+    <string name="message4">もう少しです！</string>
+    <string name="message5">花が咲きました！</string>
+    <string name="img_flower">花の画像</string>
+    <string name="btn_water">水をあげる</string>
+    <string name="btn_reset">リセット</string>
+</resources>
