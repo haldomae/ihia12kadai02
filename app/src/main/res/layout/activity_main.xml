@@ -23,4 +23,12 @@
         app:layout_constraintTop_toTopOf="parent" />
         <!-- wrap_contentは文字数や画像のデフォルトサイズに合わせて設定 -->
 
+    <ImageView
+        android:id="@+id/flowerImage"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:src="@drawable/f0"
+        android:layout_marginVertical="40dp"
+        android:contentDescription="@string/img_flower"/>
+
 </LinearLayout>
