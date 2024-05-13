@@ -20,5 +20,11 @@ class MainActivity : AppCompatActivity() {
         }
         val messageView: TextView = findViewById(R.id.messageView)
         val waterBtn: Button = findViewById(R.id.waterBtn)
+
+        var count = 0
+        waterBtn.setOnClickListener {
+            count++
+            messageView.text = "$count"
+        }
     }
 }
